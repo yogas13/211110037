@@ -1,0 +1,17 @@
+body {
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE57JanFgo7PHfiOaszWlhVWm3yz9vDo7Zw&usqp=CAU');
+	background-color: #e6bc16;
+	background-repeat: no-repeat; /* no-repeat akan menghindari pengulangan gambar */
+	background-size: cover; /* cover akan mengatur agar gambar menutupi seluruh latar belakang */
+    size: 10px ;
+
+}
+head {background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE57JanFgo7PHfiOaszWlhVWm3yz9vDo7Zw&usqp=CAU');
+	background-color: #e6bc16;
+	background-repeat: no-repeat; /* no-repeat akan menghindari pengulangan gambar */
+	background-size: cover; /* cover akan mengatur agar gambar menutupi seluruh latar belakang */
+    size: 10px ;
+
+
+}
+
